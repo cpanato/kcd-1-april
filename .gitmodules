@@ -1,0 +1,9 @@
+[submodule "tella"]
+	path = tella
+	url = https://github.com/opera7133/tella.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/opera7133/tella.git
+[submodule "themes/tella"]
+	path = themes/tella
+	url = https://github.com/opera7133/tella.git
