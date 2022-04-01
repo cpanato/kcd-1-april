@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://kcd.honk.enterprises/'
 languageCode = 'en-us'
 title = 'KCD Brazil 20022'
 theme = "tella"
