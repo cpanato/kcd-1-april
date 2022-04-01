@@ -1,3 +1,0 @@
-+++
-author = "KCD Brazil Authors"
-+++
